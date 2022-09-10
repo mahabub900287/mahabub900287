@@ -3,8 +3,6 @@
 <img align="right" width="400" src="https://camo.githubusercontent.com/101c98f67298425e9875ecfac1c25efccaf3c966db04609cc4f4e92d6bd12c32/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabub900287&label=Profile%20views&color=0e75b6&style=flat" alt="mahabub900287" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahabub900287" alt="mahabub900287" /></a> </p>
-
 - 🔭 I’m currently working on **Shipra Fashion**
 
 - 🌱 I’m currently learning **vue js and java script**
@@ -33,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabub900287&show_icons=true&locale=en&layout=compact" alt="mahabub900287" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahabub900287&show_icons=true&locale=en" alt="mahabub900287" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabub900287&" alt="mahabub900287" /></p>
