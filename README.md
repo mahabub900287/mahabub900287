@@ -1,4 +1,4 @@
-![logo](https://github.com/mahabub900287/mahabub900287/blob/master/Mahabub%20alam.png)
+
 <!--
 <h2 align="center">
   Welcome to Mahabub Alam!
@@ -78,7 +78,7 @@
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![php](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://camo.githubusercontent.com/d5ecb992d61b746777312199a0187c32d17ef14bbe29cd701be23f0bb8fc404c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f6c6f676f3d706870266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
