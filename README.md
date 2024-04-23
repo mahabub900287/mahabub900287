@@ -77,15 +77,15 @@
 <br/>
 
 ## Use To Code
-
-![php](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://camo.githubusercontent.com/d5ecb992d61b746777312199a0187c32d17ef14bbe29cd701be23f0bb8fc404c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f6c6f676f3d706870266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+[PHP](https://camo.githubusercontent.com/d5ecb992d61b746777312199a0187c32d17ef14bbe29cd701be23f0bb8fc404c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f6c6f676f3d706870266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765)
+[Laravel](https://laravel.com/)
+[Vue.js](https://vuejs.org/)
+[MySQL](https://www.mysql.com/)
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[Bootstrap](https://getbootstrap.com/)
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[jQuery](https://jquery.com/)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
