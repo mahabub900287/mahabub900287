@@ -95,19 +95,19 @@
 <br/>
 <p align="center">
   <a href="https://github.com/mahabub900287">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahabub&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahabub900287&theme=radical&border=7F3FBF&background=0D1117" alt="Mahabub Alam GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mahabub900287">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahabub&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahabub900287&theme=radical" alt="Mahabub Alam GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/mahabub900287"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahabub&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mahabub"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahabub&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/mahabub900287"><img alt="Mahabub Alam Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahabub900287&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mahabub900287"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahabub900287&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
