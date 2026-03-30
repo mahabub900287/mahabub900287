@@ -1,9 +1,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mahabub900287&style=for-the-badge&color=0e75b6" />
 </p>
-
-[![WakaTime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro -->
 <h2 align="center">
   <samp>👋 Hi, I'm <b><a target="_blank" href="https://github.com/mahabub900287">Mahabub Alam</a></b></samp>
