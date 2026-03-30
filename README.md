@@ -1,6 +1,6 @@
-<a href="">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mahabub900287&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mahabub900287&style=for-the-badge&color=0e75b6" />
+</p>
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
@@ -73,7 +73,8 @@
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=laravel&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -107,8 +108,8 @@
 ## 💼 Work Experience
 
 ### 🏢 Laravel Web Application Developer — ITclanBD *(Aug 2022 – Present)*
-- 🚀 Delivered **4+ full-stack web applications** end-to-end using Laravel & Vue.js for national and international clients
-- 🔌 Engineered RESTful APIs across **10+ projects**, standardising data contracts and response structures
+- 🚀 Delivered **10+ full-stack web applications** end-to-end using Laravel & Vue.js for national and international clients
+- 🔌 Engineered RESTful APIs across **4+ projects**, standardising data contracts and response structures
 - 💳 Implemented **secure payment gateway** solutions for 2 live production platforms
 - 🛍️ Integrated **Shopify API** into a multi-store management platform, enabling centralised control across multiple stores
 - 🤝 Collaborated on **6+ concurrent projects**, resolving technical blockers within 24 hours
@@ -126,74 +127,82 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🍔 QuickBites LA</h3>
+      <p>Modern online food ordering platform with real-time order management, secure payments, and a full admin dashboard for products, orders & customers.</p>
+      <p><b>Key Features:</b> Menu browsing, Real-time order tracking, Secure payments, Admin dashboard, Vendor management</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>>
+    </td>
+    <td width="50%" valign="top">
       <h3>📦 Saon Inventory</h3>
-      <p>End-to-end logistics platform for storage, procurement, inventory & last-mile delivery.</p>
+      <p>End-to-end logistics platform for storage, procurement, inventory & last-mile delivery with real-time visibility across the entire supply chain.</p>
       <p><b>Key Features:</b> Real-time inventory tracking, Multi-warehouse management, Procurement workflows, Role-based access, Analytics dashboard</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://saon-sa.com" target="_blank">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚢 Shipping Container Warehouse</h3>
+      <p>Laravel-based warehouse inventory system for managing shipping containers, zones & storage locations with interactive maps and real-time tracking.</p>
+      <p><b>Key Features:</b> Multi-warehouse & zone management, Container tracking, Interactive map, Real-time stock visibility, Role-based access control</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🛍️ Tec2go</h3>
-      <p>Shopify multi-store management platform — control all stores from one dashboard.</p>
+      <p>Shopify multi-store management platform — control all stores from one centralised dashboard with bulk product & pricing management.</p>
       <p><b>Key Features:</b> Multi-store product editing, Bulk pricing updates, Shopify API sync, Store performance overview, Role & permission management</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
       </p>
-      <a href="https://admin.tec2go.pt" target="_blank">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📅 Adveanz & Find Property People</h3>
-      <p>Service booking system with 3 user roles: Companies, Customers & Admins.</p>
+      <p>Service booking system with 3 user roles: Companies, Customers & Admins — with service listings, booking management & admin moderation.</p>
       <p><b>Key Features:</b> Multi-role system, Service listing with pricing, Booking management, Admin moderation panel, Email notifications</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://adveanz.com/en" target="_blank">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🥑 Avocado</h3>
-      <p>Advanced inventory management system for product tracking & stock control.</p>
+      <p>Advanced inventory management system for product tracking, stock control & internal operations for small to medium-sized enterprises.</p>
       <p><b>Key Features:</b> Stock-in/out tracking, Low-stock alerts, Supplier management, Purchase & sales orders, Inventory audit reports</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://avocado.filamentflow.com" target="_blank">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📢 Adeffi</h3>
-      <p>Advertising platform connecting drivers, advertisers & admins for brand promotion via billboards, stickers & TV ads.</p>
+      <p>Advertising platform connecting drivers, advertisers & admins for brand promotion via billboards, vehicle stickers & TV ads.</p>
       <p><b>Key Features:</b> Three-role system, Campaign management, Multi-format ad support, Driver approval workflow, Performance tracking</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://adeffitech.com" target="_blank">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 CMS Projects</h3>
-      <p>E-commerce (Shipra Fashion) & lending platform (Lendority) with custom CMS features for each domain.</p>
-      <p><b>Key Features:</b> Product catalogue management, Order management, Loan application tracking, SEO-friendly URLs, Responsive design</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-      <a href="https://www.shiprafashion.com" target="_blank">🔗 Shipra Fashion</a> &nbsp;|&nbsp; <a href="https://lendority.co.za/" target="_blank">🔗 Lendority</a>
     </td>
   </tr>
 </table>
