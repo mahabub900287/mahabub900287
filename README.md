@@ -52,7 +52,7 @@
 
   - 🏢 &nbsp; Currently working as **Laravel Web App Developer** at **ITclanBD** *(Aug 2022 – Present)*
   - 🎓 &nbsp; Pursuing **B.Sc. in CSE** at World University of Bangladesh
-  - 💼 &nbsp; Delivered **6+ full-stack web applications** for national & international clients
+  - 💼 &nbsp; Delivered **4+ full-stack web applications** for national & international clients
   - 🔗 &nbsp; Integrated **RESTful APIs**, **Payment Gateways**, and **Shopify API** across production projects
   - 🌱 &nbsp; Currently exploring **React.js**, **AWS**, and **DevOps & Automation**
   - 🤝 &nbsp; Open to collaborating on Laravel, Vue.js, or full-stack web projects
@@ -73,6 +73,7 @@
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -87,6 +88,10 @@
 
 ### Platforms & Tools
 ![Shopify](https://img.shields.io/badge/Shopify_API-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-FF6A00?style=for-the-badge&logo=databricks&logoColor=white)
+![Mobile_Payment](https://img.shields.io/badge/Mobile_Payment-2E7D32?style=for-the-badge&logo=google-pay&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -102,8 +107,8 @@
 ## 💼 Work Experience
 
 ### 🏢 Laravel Web Application Developer — ITclanBD *(Aug 2022 – Present)*
-- 🚀 Delivered **6+ full-stack web applications** end-to-end using Laravel & Vue.js for national and international clients
-- 🔌 Engineered RESTful APIs across **4+ projects**, standardising data contracts and response structures
+- 🚀 Delivered **4+ full-stack web applications** end-to-end using Laravel & Vue.js for national and international clients
+- 🔌 Engineered RESTful APIs across **10+ projects**, standardising data contracts and response structures
 - 💳 Implemented **secure payment gateway** solutions for 2 live production platforms
 - 🛍️ Integrated **Shopify API** into a multi-store management platform, enabling centralised control across multiple stores
 - 🤝 Collaborated on **6+ concurrent projects**, resolving technical blockers within 24 hours
